@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- JARVIS Futuristic Dark Palette -->
+    <color name="jarvis_bg_deep">#050811</color>
+    <color name="jarvis_bg_surface">#0A1128</color>
+    <color name="jarvis_bg_card">#0F1E40</color>
+    <color name="jarvis_cyan_primary">#00F0FF</color>
+    <color name="jarvis_blue_electric">#075BCE</color>
+    <color name="jarvis_blue_glow">#00A8FF</color>
+    <color name="jarvis_accent_gold">#FFB703</color>
+    <color name="jarvis_text_primary">#FFFFFF</color>
+    <color name="jarvis_text_secondary">#94A3B8</color>
+    <color name="jarvis_border_cyan">#2200F0FF</color>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Advanced Android AI Assistant",
+  "description": "Production native Android AI assistant featuring Jetpack Compose, Floating Bubble WindowManager overlay, Hindi/English voice interaction, Gemini AI, Room local memory, and safe Android intents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

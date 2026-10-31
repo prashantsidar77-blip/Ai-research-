@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="assistant_title">JARVIS AI Assistant</string>
+    <string name="channel_name">JARVIS Foreground Channel</string>
+    <string name="channel_description">Persistent channel for JARVIS Floating Assistant overlay</string>
+    
+    <!-- Notification Actions -->
+    <string name="action_show_bubble">Show Bubble</string>
+    <string name="action_hide_bubble">Hide Bubble</string>
+    <string name="action_stop_service">Stop Assistant</string>
+    <string name="status_running">JARVIS is active and monitoring</string>
+    <string name="status_bubble_hidden">Assistant active (Bubble minimized)</string>
+
+    <!-- Permissions -->
+    <string name="permission_overlay_title">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Required for JARVIS circular floating bubble to appear anywhere on your screen.</string>
+    <string name="permission_mic_title">Microphone Access</string>
+    <string name="permission_mic_desc">Required for bilingual voice input (Hindi and English speech recognition).</string>
+    <string name="permission_notification_title">System Notifications</string>
+    <string name="permission_notification_desc">Required to keep JARVIS active in foreground and control floating bubble state.</string>
+    
+    <!-- Accessibility -->
+    <string name="accessibility_service_description">Optional assistive service allowing JARVIS to provide user-approved contextual assistance. Sensitive screen data like passwords and banking details are never captured or recorded.</string>
+</resources>
